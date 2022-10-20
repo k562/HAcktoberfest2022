@@ -1,2 +1,2 @@
-# HAcktoberfest2022
+# HACKTOBERFEST 2022
 # kks contribution done ❤️❤️
